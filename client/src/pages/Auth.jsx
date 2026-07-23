@@ -4,6 +4,8 @@ import { signInWithPopup } from 'firebase/auth';
 import { auth, provider } from '../utils/firebase';
 import axios from "axios";
 import { serverUrl } from '../App';
+import { motion } from "motion/react";
+
 
 function Auth() {
 
