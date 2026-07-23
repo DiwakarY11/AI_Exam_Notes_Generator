@@ -1,0 +1,4 @@
+.env
+firebase-admin-key.json
+.firebase-admin-key.json
+node_modules
